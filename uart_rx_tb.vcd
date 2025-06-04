@@ -1,0 +1,52 @@
+$date
+	Wed Jun  4 13:35:02 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 8 ! rx_out [7:0] $end
+$upscope $end
+$scope module tb $end
+$var wire 1 " rx_done $end
+$upscope $end
+$scope module tb $end
+$var reg 8 # tx_data [7:0] $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx #
+x"
+bx !
+$end
+#10
+0"
+#40
+b1010101 #
+#156350
+bx1 !
+#260510
+bx01 !
+#364670
+bx101 !
+#468830
+bx0101 !
+#572990
+bx10101 !
+#677150
+bx010101 !
+#781310
+bx1010101 !
+#885470
+b1010101 !
+#989630
+1"
+#989650
+0"
